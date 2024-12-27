@@ -1,0 +1,1 @@
+int(float(60) / float(1.75) ** 2)
